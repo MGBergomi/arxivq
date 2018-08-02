@@ -22,7 +22,7 @@ def read(fname):
         return f.read()
 
 setup(
-    name='ArxivQ',
+    name='arxivq',
     version='0.1.0',
     python_requires='>={}.{}'.format(*REQUIRED_PYTHON),
     author='Mattia G Bergomi',
